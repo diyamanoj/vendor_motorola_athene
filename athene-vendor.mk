@@ -67,7 +67,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/athene/proprietary/framework/com.qualcomm.location.vzw_library.jar:system/framework/com.qualcomm.location.vzw_library.jar \
     vendor/motorola/athene/proprietary/framework/ConnectivityExt.jar:system/framework/ConnectivityExt.jar \
     vendor/motorola/athene/proprietary/framework/dpmapi.jar:system/framework/dpmapi.jar \
-    vendor/motorola/athene/proprietary/framework/qcom.fmradio.jar:system/framework/qcom.fmradio.jar \
     vendor/motorola/athene/proprietary/framework/qmapbridge.jar:system/framework/qmapbridge.jar \
     vendor/motorola/athene/proprietary/framework/rcsimssettings.jar:system/framework/rcsimssettings.jar \
     vendor/motorola/athene/proprietary/framework/rcsservice.jar:system/framework/rcsservice.jar \
