@@ -299,7 +299,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/athene/proprietary/vendor/lib/libmotocalibration.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmotocalibration.so \
     vendor/motorola/athene/proprietary/vendor/lib/libois_lc898122.so:$(TARGET_COPY_OUT_VENDOR)/lib/libois_lc898122.so \
     vendor/motorola/athene/proprietary/vendor/lib/libubifocus.so:$(TARGET_COPY_OUT_VENDOR)/lib/libubifocus.so \
-    vendor/motorola/athene/proprietary/lib/libGLESv3.so:system/lib/libGLESv3.so \
     vendor/motorola/athene/proprietary/lib/libmorpho_image_stabilizer4.so:system/lib/libmorpho_image_stabilizer4.so \
     vendor/motorola/athene/proprietary/lib/libmotaudioutils.so:system/lib/libmotaudioutils.so \
     vendor/motorola/athene/proprietary/lib/libmotimager_utils.so:system/lib/libmotimager_utils.so \
